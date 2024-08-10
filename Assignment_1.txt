@@ -1,0 +1,14 @@
+Q1. Write short notes on the following python libraries:
+
+
+Pandas: Pandas is a powerful library for data manipulation and analysis. It provides data structures like DataFrames and Series, which allow you to handle and analyze tabular data efficiently. With functions for reading/writing data, data cleaning, and transformation, Pandas is essential for data preprocessing.
+
+NumPy: The foundational package for numerical computing in Python is NumPy. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays. NumPy is crucial for performing numerical operations efficiently.
+
+TensorFlow: TensorFLow is an open-source library developed by Google for numerical computation and machine learning. It provides a flexible platform for building and deploying machine learning models, including neural networks. It supports both CPU and GPU computation and is widely used for deep learning applications.
+
+Keras: A high-level neural networks API, Keras is now integrated into TensorFlow as tf.keras. It provides a user-friendly interface for building and training deep learning models, allowing for easy experimentation with different architectures and layers.
+
+scikit-learn (sklearn): A versatile machine learning library that offers a wide range of tools for data preprocessing, classification, regression, clustering, and model evaluation is called scikit-learn. It is built on top of NumPy, SciPy, and Matplotlib, providing simple and efficient tools for predictive data analysis.
+
+PyTorch: PyTorch is an open-source deep learning library developed by Facebook’s AI Research lab. PyTorch provides dynamic computational graphs, which make it easier to debug and experiment with complex models. It is known for its flexibility and is widely used for research and production in deep learning.
